@@ -1,6 +1,7 @@
-# Welcome to 'Ugur Uresin's GitHub Page 
+# 'Ugur Uresin's GitHub Page - Python Training Notes
+
 ## Contact
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uuresin@ford.com.tr](mailto:uuresin@ford.com.tr)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uuresin@ford.com.tr](mailto:uresinugur35@ford.com.tr)
 
 ## Table Of Contents
 
