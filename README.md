@@ -7,7 +7,7 @@
 
 * [01. Numpy Training](https://github.com/ugururesin/Python_Training/blob/master/01_NumPy.ipynb): Fundamental Numpy operations and examples
 
-* [02. Pandas Training](https://github.com/ugururesin/Python_Training/blob/master/02_Pandas.ipynb): Fundamental Numpy operations and examples
+* [02. Pandas Training](https://github.com/ugururesin/Python_Training/blob/master/02_Pandas.ipynb): Fundamental Pandas operations and examples
 
 * [03. DataFrames & Functions Training](https://github.com/ugururesin/Python_Training/blob/master/03_DataFrames_and_Functions.ipynb): Shows DataFrames & Explains Functions
 
