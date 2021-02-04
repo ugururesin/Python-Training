@@ -11,7 +11,7 @@
 
 * [03. DataFrames & Functions Training](https://github.com/ugururesin/Python_Training/blob/master/03_DataFrames_and_Functions.ipynb): Shows DataFrames & Explains Functions
 
-* [04. Map - Reduce- Lambda](https://github.com/ugururesin/Python_Training/blob/master/04_Map_Reduce_Lambda.ipynb): Practical examples of Map, Reduce and Lambda
+* [04. Map - Reduce- Lambda](https://github.com/ugururesin/Python_Training/blob/master/04_Map_Reduce_Lambda.ipynb): Practical examples of Map, Reduce and Lambda (Coming soon!)
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresinugur35@gmail.com.tr) and shared to public for training purposes.  
