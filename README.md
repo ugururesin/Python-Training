@@ -9,7 +9,7 @@
 
 * [02. Pandas Training](https://github.com/ugururesin/Python_Training/blob/master/02_Pandas.ipynb): Fundamental Pandas operations and examples
 
-* [03. DataFrames](https://github.com/ugururesin/Python_Training/blob/master/03_DataFrames_and_Functions.ipynb): Shows DataFrames & Explains Functions
+* [03. DataFrames](https://github.com/ugururesin/Python_Training/blob/master/03_DataFrames.ipynb): Shows DataFrames & Explains Functions
 
 * [04. Functions](https://github.com/ugururesin/Python-Training/blob/master/04_Functions.ipynb): Functions and practical examples of Map, Reduce and Lambda
 
