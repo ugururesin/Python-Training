@@ -1,7 +1,7 @@
 # 'Ugur Uresin's GitHub Page - Python Training Notes
 
 ## Contact
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com.tr](mailto:uresin.ugur@gmail.com.tr)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
 
 ## Table Of Contents
 
