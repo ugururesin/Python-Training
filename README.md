@@ -1,7 +1,7 @@
 # 'Ugur Uresin's GitHub Page - Python Training Notes
 
 ## Contact
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresinugur35@gmail.com.tr](mailto:uresinugur35@gmail.com.tr)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com.tr](mailto:uresin.ugur@gmail.com.tr)
 
 ## Table Of Contents
 
@@ -28,5 +28,5 @@
 * [11. Object Oriented Programming](https://github.com/ugururesin/Python-Training) Coming soon!
 
 ## License
-This content is created by [Ugur Uresin](mailto:uresinugur35@gmail.com.tr) and shared to public for training purposes.  
+This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com) and shared to public for training purposes.  
 You can freely use and share the content here as long as you give reference.
