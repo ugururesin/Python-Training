@@ -13,19 +13,21 @@
 
 * [04. Functions](https://github.com/ugururesin/Python-Training/blob/master/04_Functions.ipynb): Functions and practical examples of Map, Reduce and Lambda
 
-* [05. Flow Control](https://github.com/ugururesin/Python-Training) Coming soon!
+* [05. Modules](https://github.com/ugururesin/Python-Training/blob/master/05_Modules.ipynb) Example usage of modules
 
-* [06. Operators](https://github.com/ugururesin/Python-Training) Coming soon!
+* [06. Flow Control](https://github.com/ugururesin/Python-Training) Coming soon!
 
-* [07. Lists, Tuples, Dictionaries](https://github.com/ugururesin/Python-Training) Coming soon!
+* [07. Operators](https://github.com/ugururesin/Python-Training) Coming soon!
 
-* [08. Clusters](https://github.com/ugururesin/Python-Training) Coming soon!
+* [08. Lists, Tuples, Dictionaries](https://github.com/ugururesin/Python-Training) Coming soon!
 
-* [09. Error Handling](https://github.com/ugururesin/Python-Training) Coming soon!
+* [09. Clusters](https://github.com/ugururesin/Python-Training) Coming soon!
 
-* [10. I/O](https://github.com/ugururesin/Python-Training) Coming soon!
+* [10. Error Handling](https://github.com/ugururesin/Python-Training) Coming soon!
 
-* [11. Object Oriented Programming](https://github.com/ugururesin/Python-Training) Coming soon!
+* [11. I/O](https://github.com/ugururesin/Python-Training) Coming soon!
+
+* [12. Object Oriented Programming](https://github.com/ugururesin/Python-Training) Coming soon!
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com) and shared to public for training purposes.  
