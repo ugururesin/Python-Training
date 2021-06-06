@@ -2,7 +2,7 @@ def get_file_ext(filename):
 	return filename[filename.index(".")+1:]
 
 def get_filename_length(filename):
-	return length(file.rsplit('.', 1)[0])
+	return len(file.rsplit('.', 1)[0])
 
 programming_extensions = {
 	".c":"C and C++ source code file",
