@@ -1,4 +1,5 @@
-# 'Ugur Uresin's GitHub Page - Python Training Notes
+# Python Training Notes
+Fundamental Python notes for those who know at least the basics of programming.
 
 ## Contact
 * [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
